@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @utviklerToni
 - 👀 I’m interested in creating open source web and mobile application.
 - 🌱 I’m currently learning micro-services
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me @ utviklerToni@protonmail.com
 
 <!---
