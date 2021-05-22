@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utviklerToni
+- 👋 Hi, I’m @utviklertoni
 - 👀 I’m interested in creating open source web and mobile application.
 - 🌱 I’m currently learning micro-services
 - 💻 Full Stack & mobile developer (React.js, Node.js, & Flutter)
