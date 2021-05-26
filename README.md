@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning micro-services
 - 💻 Full Stack & mobile developer (React.js, Node.js, & Flutter)
 - 📂 All my projects are open source.
-- 📫 You can reach me @ my public email : utviklerToni@protonmail.com
+
 
 
 <!---
